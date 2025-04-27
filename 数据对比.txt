@@ -1,0 +1,53 @@
+Output saved to 123456_xinan_chen.json
+Instance: instance_1
+Bins Used:      60 (Time: 0.0030 seconds)
+Instance: instance_2
+Bins Used:      68 (Time: 0.0050 seconds)
+Instance: instance_3
+Bins Used:      27 (Time: 0.0020 seconds)
+Instance: instance_4
+Bins Used:      31 (Time: 0.0030 seconds)
+Instance: instance_5
+Bins Used:      54 (Time: 0.0040 seconds)
+Instance: instance_6
+Bins Used:      57 (Time: 0.0040 seconds)
+Instance: instance_7
+Bins Used:      42 (Time: 0.0020 seconds)
+Instance: instance_8
+Bins Used:      62 (Time: 0.0020 seconds)
+Instance: instance_large_9
+Bins Used:      513 (Time: 0.0200 seconds)
+Instance: instance_large_10
+Bins Used:      459 (Time: 0.0150 seconds)
+
+--- Summary ---
+Total Used Bins: 1373
+Total Execution Time: 0.0680 seconds
+
+
+PS D:\desk\Artificial Intelligence Methods\CW\UNNC_2025_AIM_CW> & D:/python/python.exe "d:/desk/Artificial Intelligence Methods/CW/UNNC_2025_AIM_CW/CW_exp.py"
+Instance: instance_1
+Bins Used:      65 (Time: 0.0390s)
+Instance: instance_2
+Bins Used:      74 (Time: 0.0475s)
+Instance: instance_3
+Bins Used:      28 (Time: 0.0230s)
+Instance: instance_4
+Bins Used:      34 (Time: 0.0192s)
+Instance: instance_5
+Bins Used:      57 (Time: 0.0333s)
+Instance: instance_6
+Bins Used:      61 (Time: 0.0352s)
+Instance: instance_7
+Bins Used:      47 (Time: 0.0361s)
+Instance: instance_8
+Bins Used:      64 (Time: 0.0513s)
+Instance: instance_large_9
+Bins Used:      525 (Time: 0.3820s)
+Instance: instance_large_10
+Bins Used:      471 (Time: 0.2880s)
+
+--- Summary ---
+Output saved to 123456_xinan_chen.json
+Total Used Bins: 1426
+Total Execution Time: 0.9556s
